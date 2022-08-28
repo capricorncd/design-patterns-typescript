@@ -24,7 +24,7 @@
 
 ### UML
 
-[Singleton](./singleton.jpg)
+![Singleton](./singleton.jpg)
 
 ## Reference
 

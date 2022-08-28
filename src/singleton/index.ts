@@ -29,7 +29,7 @@
  *
  * ### UML
  *
- * [Singleton](./singleton.jpg)
+ * ![Singleton](./singleton.jpg)
  */
 export * from './HungrySingleton'
 export * from './InnerClassSingleton'
