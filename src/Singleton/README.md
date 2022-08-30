@@ -28,6 +28,6 @@
 
 ## Reference
 
-https://www.runoob.com/design-pattern/design-pattern-tutorial.html
+- https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
-https://refactoring.guru/design-patterns
+- https://refactoring.guru/design-patterns

@@ -13,9 +13,9 @@ const outputFileOptions = {
     end: [
       '## Reference',
       BLANK_LINE,
-      'https://www.runoob.com/design-pattern/design-pattern-tutorial.html',
+      '- https://www.runoob.com/design-pattern/design-pattern-tutorial.html',
       BLANK_LINE,
-      'https://refactoring.guru/design-patterns',
+      '- https://refactoring.guru/design-patterns',
     ],
   },
 }
