@@ -101,4 +101,6 @@
 
 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
+https://refactoring.guru/design-patterns
+
 https://github.com/iluwatar/java-design-patterns
