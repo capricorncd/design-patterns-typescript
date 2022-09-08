@@ -2,7 +2,7 @@
 
 This repository has been removed, please see https://github.com/xing1984/design-patterns
 
-### Reference
+## Reference
 
 https://www.runoob.com/design-pattern/design-pattern-tutorial.html
 
